@@ -1,6 +1,4 @@
-# Awesome Shell [![Awesome][awesome-badge]][awesome-link]
-
-这是一份非常棒的命令行框架、工具包、指南、以及小玩意儿组织清单。由 awesome-php 获得灵感。该 awesome 收集在 [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu) 上也可用。
+## Shell Development
 
 - [命令行效率](#命令行效率)
 - [定制](#定制)
