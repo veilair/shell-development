@@ -1511,4 +1511,15 @@ A curated list of awesome Shell frameworks, libraries and software.
 * [jorgebucaran/fishtape](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for the fish shell.
 
 
+# Contributing
 
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/veilair/shell-development/blob/master/contributing.md) first.
+
+## Licenses
+License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Veilair](https://github.com/veilair/) has waived all copyright and related or neighboring rights to this work.
+
+[Back to top](#table-of-contents)
