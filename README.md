@@ -422,7 +422,7 @@
 * [A guide to learn bash](https://github.com/Idnan/bash-guide)
 * [Shell Field Guide](https://raimonster.com/scripting-field-guide/)
 
-# Other Awesome Lists
+# `Other Awesome Lists`
 
 Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
