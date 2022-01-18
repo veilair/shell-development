@@ -173,7 +173,7 @@
 * [starship](https://starship.rs/) - Fast, customisable, cross-shell prompt written in rust
 * [synth-shell](https://github.com/andresgongora/synth-shell) - Greeter with a customizable status report and a fancy bash prompt
 
-## For Developers
+## `For Developers`
 
 *Command-line development, version control, and deployment.*
 
