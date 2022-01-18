@@ -209,7 +209,7 @@
 * [tag](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
 * [wipe-modules](https://github.com/bntzio/wipe-modules) - A little agent that removes the node_modules folder of non-active projects
 
-## System Utilities
+## `System Utilities`
 
 *OS-related tools, including system administration, system debugging, and file and process management.*
 
@@ -243,7 +243,7 @@
 * [wifi-wand](https://github.com/keithrbennett/wifiwand) - a Ruby command line application for managing WiFi on MacOS (install by `gem install wifi-wand`)
 * [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 
-## Downloading and Serving
+## `Downloading and Serving`
 
 *Self-hosted, lightweight servers and networking tools written in shell scripts.*
 
