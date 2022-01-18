@@ -21,7 +21,7 @@
 - [Other Awesome Lists](#other-awesome-lists)
 - [Web Links](#web-links)
 
-## Shells
+## `Shells`
 
 *Choose your base shell.*
 
@@ -45,7 +45,7 @@
 * [yash](https://yash.osdn.jp/) - A POSIX-compliant command line shell with built-in support for completion and prediction based on command history
 * [zsh](https://www.zsh.org) - Powerful shell with scripting language
 
-## Command-Line Productivity
+## `Command-Line Productivity`
 
 *Search, bookmarks, multiplexing, and other tools that make your terminal experience more productive.*
 
@@ -131,7 +131,7 @@
 * [xsv](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
 
-### Directory Navigation
+### `Directory Navigation`
 
 * [aliasme](https://github.com/Jintin/aliasme) - alias helper to change directory quickly
 * [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
@@ -148,7 +148,7 @@
 * [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem, written in Rust
 * [zpyi](https://github.com/sakshamsharma/zpyi) - Python in Zsh - Easy python scripting in shell
 
-## Customization
+## `Customization`
 
 *Custom prompts, color themes, etc.*
 
